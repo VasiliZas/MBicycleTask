@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+/src/main/resources/credential.properties
+/src/main/resources/logback.xml
+/.idea/
+/catalina.base_IS_UNDEFINED/logs/worker.log
